@@ -34,6 +34,7 @@ pip install labelImg
 ---
 
 🚧 How to Use
+
 1️⃣ Annotate Images
 
 Use LabelImg to annotate images and export annotations in YOLO format.
